@@ -1,0 +1,31 @@
+H2.color-title{
+  font-weight: normal;
+}
+
+
+.note{
+  font-size: 20px;
+}
+#yellow{
+  color:yellow
+}
+#green{
+  color:green
+}
+#blue{
+  color: blue;
+}
+#orange{
+  color: orange;
+} 
+#red{
+  color: red;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+
+/* Write your CSS below, don't change the rules above. */
